@@ -1,0 +1,10 @@
+Debug/
+Backup/
+*.aps
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.vcxproj
+*.filters
+*.htm
